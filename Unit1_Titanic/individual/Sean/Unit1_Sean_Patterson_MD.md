@@ -6,7 +6,7 @@
 	
 *Three Important Predictors*
 
-	The first influential finding discovered was that there are significant disparities in survival rates by gender. With females surviving the crash at a probability over .6 and males at around .4, this represents a .2 difference in survival rates. This data can be found in the bar graph in the executive summary dashboard.
+	**The first influential finding discovered was that there are significant disparities in survival rates by gender. With females surviving the crash at a probability over .6 and males at around .4, this represents a .2 difference in survival rates. This data can be found in the bar graph in the executive summary dashboard.**
 	
 	The gender differences continued to persist as one of the most relevant factors to survival. Even when looking at the different classes, females always had a higher survival rate than males. Class 3 females had a higher survival rate than Class 1 males. 
 	Further looking into class, we can see that passengers in first class had a higher rate than those in second class and third class. Indicating that passenger class is a significant predictor of survival rate.
