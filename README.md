@@ -21,3 +21,18 @@ This repository is designed to:
 
 
 ## 🗂️ Repository Structure
+MGMT467_Team7
+|
+|--📦 Unit1_Titanic/
+│
+├── 📁 individual/                  # Individual work folders
+│   ├── 📁 Louis/                   # Louis's individual work
+│   ├── 📁 Michael/                 # Michael's individual work
+│   ├── 📁 Orion/                   # Orion's individual work
+│   └── 📁 Sean/                    # Sean's individual work
+│
+├── 📁 team/                        # Team-based submissions
+│   ├── 📁 Executive_Brief/         # Team executive summary and related files
+│   └── 📁 promp_log/               # Shared prompt logs or group notes
+│
+└── 📄 README.md                    # Repository documentation (this file)
