@@ -22,8 +22,7 @@ This repository is designed to:
 
 ## 🗂️ Repository Structure
 MGMT467_Team7
-|
-|--📦 Unit1_Titanic/
+📦 Unit1_Titanic/
 │
 ├── 📁 individual/                  # Individual work folders
 │   ├── 📁 Louis/                   # Louis's individual work
