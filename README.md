@@ -19,8 +19,8 @@ This repository is designed to:
 | Orion Barret-Tzannes | [obarret@purdue.edu] | 
 | Louis Siller | [Sillerl@purdue.edu] | 
 
-
 ### 🗂️ Repository Structure
+
 📦 MGMT467_Team7/
 │
 └── 📁 Unit1_Titanic/                     # Unit 1: Titanic Analysis
@@ -36,4 +36,3 @@ This repository is designed to:
     │   └── 📁 promp_log/                 # Shared prompt logs or group notes
     │
     └── 📄 README.md                      # Repository documentation (this file)
-
