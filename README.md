@@ -14,7 +14,7 @@ This repository is designed to:
 
 | Name | Email |
 |------|------|
-| [Michael Poliakov] | [your@email.com] |
+| [Michael Poliakov] | [mpoliako@purdue.edu] |
 | [Sean Patterson] | [email] | 
 | Orion Barret-Tzannes | [email] | 
 | Louis Siller | [email] | 
