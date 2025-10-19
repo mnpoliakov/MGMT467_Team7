@@ -21,7 +21,6 @@ This repository is designed to:
 
 
 ### 🗂️ Repository Structure
-
 📦 MGMT467_Team7/
 │
 └── 📁 Unit1_Titanic/                     # Unit 1: Titanic Analysis
