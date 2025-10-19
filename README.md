@@ -20,7 +20,7 @@ This repository is designed to:
 | Louis Siller | [Sillerl@purdue.edu] | 
 
 
-## 🗂️ Repository Structure
+### 🗂️ Repository Structure
 
 📦 MGMT467_Team7/
 │
