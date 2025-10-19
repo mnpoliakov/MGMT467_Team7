@@ -12,8 +12,8 @@ This repository is designed to:
 
 ## 👥 Team Information
 
-| Name | Role | Email | GitHub Username |
-|------|------|--------|----------------|
+| Name | Email |
+|------|------|
 | [Michael Poliakov] | [your@email.com] |
 | [Sean Patterson] | [email] | 
 | Orion Barret-Tzannes | [email] | 
