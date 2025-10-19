@@ -15,9 +15,9 @@ This repository is designed to:
 | Name | Email |
 |------|------|
 | [Michael Poliakov] | [mpoliako@purdue.edu] |
-| [Sean Patterson] | [email] | 
-| Orion Barret-Tzannes | [email] | 
-| Louis Siller | [email] | 
+| [Sean Patterson] | [patte223@purdue.edu] | 
+| Orion Barret-Tzannes | [obarret@purdue.edu] | 
+| Louis Siller | [Sillerl@purdue.edu] | 
 
 
 ## 🗂️ Repository Structure
