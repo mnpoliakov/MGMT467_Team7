@@ -1,0 +1,5 @@
+Start by removing the entire Cabin column since it’s mostly missing and adds little value. Check for other missing data and handle it systematically. Create useful features like a person’s title from their name or family size from SibSp and Parch. To fill in missing ages, build a Random Forest model using variables like Pclass, Sex, Fare, SibSp, Parch, and Embarked. Train it on rows with known ages, then predict the missing ones. 
+
+Generate quick summary stats with .describe() to view ranges, averages, and outliers for numeric variables like Age, Fare, SibSp, and Parch. Check the distribution of Sex and Embarked to understand sample balance. Look at histograms of Age and Fare to spot skewness or gaps. Compare Age across Pclass or Sex using boxplots to see trends . Also review missingness across variables to catch patterns. 
+
+Generate a statistical analysis of survival rate by gender in each class using scipy and create violin plots for the survival distribution by passenger class, gender, and age group. Give some interpretation insights as well
