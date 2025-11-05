@@ -70,19 +70,3 @@ This project explores flight data using **BigQuery ML (BQML)** to address key op
 | **GitHub Repo** | Clean structure | Clean SQL files, a reproducible Colab environment, and this comprehensive `README.md`. |
 
 -----
-
-## 🛠️ Repository Structure (Recommended)
-
-```
-/Unit2_Flight_Delays
-├── README.md                 <-- This file
-├── /notebooks
-│   └── Unit2_<Name>_BQML.ipynb  <-- Individual Colab notebooks
-├── /sql
-│   ├── regression_baseline.sql
-│   ├── classification_baseline.sql
-│   └── classification_transform.sql
-└── /deliverables
-    ├── Ops_Brief.pdf            <-- Team Deliverable
-    └── Unit2_<Name>_Summary.md  <-- Individual Summaries
-```
