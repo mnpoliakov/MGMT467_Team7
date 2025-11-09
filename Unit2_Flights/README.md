@@ -18,7 +18,7 @@ The primary goal of this assignment is to:
 ### 🛠️ Tools and Dataset
 
   * **Tools:** Google Colab, BigQuery SQL, BQML (`LINEAR_REG`, `LOGISTIC_REG`, `TRANSFORM` clause).
-  * **Dataset:** `bigquery-public-data.faa.us_flights` or `bigquery-public-data.flights`.
+  * **Dataset:** https://www.kaggle.com/datasets/shaivyac/us-airline-dataset
 
 -----
 
@@ -31,10 +31,6 @@ Each team member is responsible for a complete, reproducible BQML workflow, docu
       * One complete **Regression** experiment (`arr_delay`): Training, `ML.EVALUATE`, and **`ML.EXPLAIN_PREDICT`** (with interpretation for two hypothetical flights).
       * One complete **Classification** experiment (`diverted`): Training, Evaluation (precision, recall, confusion matrix), and **re-scoring with a custom threshold**.
       * **Feature Engineering:** Retraining the classification model with the **`TRANSFORM` clause** and comparing baseline vs. engineered metrics.
-  * **Summary File:** `Unit2_<Name>_Summary.md` (1 page)
-      * Reflections on what was learned.
-      * Analysis of where the model **failed** (e.g., poor predictions, metric weaknesses).
-      * Justification for the **final classification threshold** recommended for deployment.
 
 -----
 
@@ -43,13 +39,5 @@ Each team member is responsible for a complete, reproducible BQML workflow, docu
 Team deliverables synthesize the individual findings, providing a collective, actionable report from an operations management perspective.
 
   * **Folder:** Located in the `/team/` folder.
-  * **Ops Brief (2–3 pages PDF):**
-      * **Regression Impact:** How the model's **MAE** translates directly to **staffing or gate planning** decisions (business terms).
-      * **Classification Strategy:** Detailed **risk matrix** (FP vs FN costs) and a justification for the team's chosen deployment threshold.
-      * **Feature Engineering:** Summary of **wins** from using the `TRANSFORM` clause and concrete **future feature ideas**.
-  * **Repository Structure:**
-      * Clean and well-commented **SQL files** (e.g., separate files for the baseline and TRANSFORM models).
-      * A reproducible **Colab** environment.
-      * This organized **`README.md`**.
 
 -----
