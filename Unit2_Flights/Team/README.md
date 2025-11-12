@@ -18,7 +18,7 @@ The primary goal of this assignment is to:
 ### 🛠️ Tools and Dataset
 
   * **Tools:** Google Colab, BigQuery SQL, BQML (`LINEAR_REG`, `LOGISTIC_REG`, `TRANSFORM` clause).
-  * **Dataset:** https://www.kaggle.com/datasets/shaivyac/us-airline-dataset
+  * **Dataset:** https://www.kaggle.com/datasets/mexwell/carrier-on-time-performance-dataset
 
 -----
 
