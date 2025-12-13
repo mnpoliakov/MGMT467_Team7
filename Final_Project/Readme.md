@@ -47,7 +47,7 @@ Below is a guide to the folder structure of this repository. Use this to locate 
     * **`Operational Excellence & Security.md`**: The governance document outlining security protocols, API key management, and operational controls.
     * **`blueprint.md`**: The technical architecture diagram and system blueprint.
     * **`Presentation`**: A slide deck that contains a highlevel overview of our project.
-    * **`Video`**: Contains a live team demo of our project from batch to dashboard. 
+    * **`Video`**: Contains a live team demo of our project from batch to dashboard. https://youtu.be/uCGJEoPEeE0
 * **`pipeline/`**
     * **`Batch/`**: Python scripts and logic for ingesting the Kaggle historical datasets.
     * **`Streaming/`**: The complete codebase for the Weatherstack API real-time streaming architecture.
