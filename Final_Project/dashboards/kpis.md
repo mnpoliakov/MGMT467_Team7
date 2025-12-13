@@ -1,13 +1,14 @@
-☁️ Dashboard README
+#☁️ Dashboard README
+
 This document provides a detailed overview of the dashboard, including its purpose, data sources, and the definitions of all key performance indicators (KPIs).
 
 Dashboard Link: https://lookerstudio.google.com/reporting/86b68bcb-9488-4b63-b64d-896e5874b02c
 
-🎯 Purpose & Scope
+#🎯 Purpose & Scope
 
 Goal: To provide a comprehensive, real-time snapshot of local weather conditions. This allows users to quickly assess atmospheric conditions relevant to [Specific use case, e.g., logistics planning, outdoor event management, energy consumption forecasting].
 
-📊 Key Performance Indicators (KPIs)
+#📊 Key Performance Indicators (KPIs)
 
 Below are the metrics presented on the dashboard, along with their definitions and chart type.
 
