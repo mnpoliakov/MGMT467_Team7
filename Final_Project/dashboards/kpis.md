@@ -1,14 +1,14 @@
-#☁️ Dashboard README
+☁️ **Dashboard README**
 
 This document provides a detailed overview of the dashboard, including its purpose, data sources, and the definitions of all key performance indicators (KPIs).
 
-Dashboard Link: https://lookerstudio.google.com/reporting/86b68bcb-9488-4b63-b64d-896e5874b02c
+**Dashboard Link**: https://lookerstudio.google.com/reporting/86b68bcb-9488-4b63-b64d-896e5874b02c
 
-#🎯 Purpose & Scope
+🎯 **Purpose & Scope**
 
 Goal: To provide a comprehensive, real-time snapshot of local weather conditions. This allows users to quickly assess atmospheric conditions relevant to [Specific use case, e.g., logistics planning, outdoor event management, energy consumption forecasting].
 
-#📊 Key Performance Indicators (KPIs)
+📊 **Key Performance Indicators (KPIs)**
 
 Below are the metrics presented on the dashboard, along with their definitions and chart type.
 
@@ -22,7 +22,7 @@ UV-Index	Gauge Chart	A measure of the intensity of ultraviolet (UV) radiation fr
 Visibility	Bar Chart	The maximum distance at which a person can see an object in daylight.	[e.g., miles, kilometers]
 🛠️ Data Sources & Logic
 
-📝 Interpretation Guide
+📝 **Interpretation Guide**
 
 Gauge Charts (Humidity & UV-Index): These charts are designed to show how close the current value is to a critical threshold or a desirable range.
 
